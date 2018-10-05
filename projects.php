@@ -28,9 +28,8 @@
 	<!-- our-team -->
 			<div id="team" class="team">
 				<div class="center wow fadeInDown">
-					<h2>Accomplished <span>Projects</span></h2>
-					<p class="lead">Staff of the company and professional and follows the recruitment procedure, they have their
-own job descriptions, it was selected through their experience and they have staff regulation,
+					<h2>My <span>Projects</span></h2>
+					<p class="lead">I have succesfully completed a number of Projects,
 some of them are as follows: -</p>
 				</div>
 
@@ -39,23 +38,23 @@ some of them are as follows: -</p>
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/villa.png" alt=""></a>
+									<a href="#"><img class="media-object" src="images/revision.png" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Viatu Villa</h4>
+									<h4>Revisionwise</h4>
 								</div>
 							</div><!--/.media -->
 							<h3>Project Details</h3>
-							<p>This a static single webpage that offers view of a job search and application landing page.</p>
+							<p> An interactive digital online platform for revising the Kenya 8-4-4 curriculum</p>
 							<p class="tech"><h3>Technologies:</h3> 
 							<table class="tech">
 								<tr>
-									<td>Html</td>
-									<td>Js</td>
-									<td>Php</td>
+									<td>Ruby-on-Rails</td>
+									<td>jQuery</td>
+									<td>Angular JS</td>
 								</tr> 
 							</table>
-							<a href="#">view website</a></p>
+							<a href="https://www.revisionwise.com/#!/">view website</a></p>
 						</div>
 					</div><!--/.col-lg-4 -->
 					
@@ -64,19 +63,24 @@ some of them are as follows: -</p>
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/person.png" alt=""></a>
+									<a href="#"><img class="media-object" src="images/carmma.png" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Phelix Odipo</h4>
-									<h5>Finance Manager</h5>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
+									<h4>Carmma</h4>
 								</div>				
-							<p>Loyal and dedicated member of the team</p>
 							</div><!--/.media -->
+								<h3>Project Details</h3>
+							<p>An African platform for cooperation and coordination to save the lives of women and children.</p>
+							<p class="tech"><h3>Technologies:</h3> 
+							<table class="tech">
+								<tr>
+									<td>Html</td>
+									<td>JS</td>
+									<td>Php</td>
+									<td>Drupal</td>
+								</tr> 
+							</table>
+							<a href="http://carmma.org/">view website</a></p>
 						</div>
 					</div><!--/.col-lg-4 -->					
 				</div> <!--/.row -->
@@ -103,40 +107,48 @@ some of them are as follows: -</p>
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/person.png" alt=""></a>
+									<a href="#"><img class="media-object" src="images/chase.png" alt=""></a>
 								</div>
 
 								<div class="media-body">
-									<h4>Abdikhalaq Mohamed Haji</h4>
-									<h5>Procurement</h5>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
+									<h4>Chase Bank Kenya</h4>
 								</div>
 							</div><!--/.media -->
-							<p>Loyal and dedicated member of the team</p>
-						</div>
+							<h3>Project Details</h3>
+							<p>Information Website for Chase Bank Kenya</p>
+							<p class="tech"><h3>Technologies:</h3> 
+							<table class="tech">
+								<tr>
+									<td>React</td>
+									<td>jQuery</td>
+									<td>Drupal</td>
+								</tr> 
+							</table>
+							<a href="https://www.chasebankkenya.co.ke/">view website</a></p>	
+							</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-2">
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/person.png" alt=""></a>
+									<a href="#"><img class="media-object" src="images/AfroB.png" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Anisa Ali Hashi</h4>
-									<h5>Logistic</h5>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
+									<h4>Afro Barometer</h4>
 								</div>
 							</div><!--/.media -->
-							<p>Loyal and dedicated member of the team</p>
-						</div>
+							<h3>Project Details</h3>
+							<p>A research website that publishes statistical data on africa to the public</p>
+							<p class="tech"><h3>Technologies:</h3> 
+							<table class="tech">
+								<tr>
+									<td>Ruby-on-Rails</td>
+									<td>jQuery</td>
+									<td>PHP</td>
+								</tr> 
+							</table>
+							<a href="http://www.afrobarometer.org">view website</a></p>
+							</div>
 					</div>
 				</div>	<!--/.row-->
 				<div class="row team-bar">
@@ -156,6 +168,7 @@ some of them are as follows: -</p>
 						<hr> <i class="fa fa-angle-up"></i>
 					</div>
 				</div> <!--skill_border-->  
+				<!--
 								<div class="row clearfix">
 					<div class="col-md-4 col-sm-6">	
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -172,11 +185,13 @@ some of them are as follows: -</p>
 										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 									</ul>
 								</div>
-							</div><!--/.media -->
+							</div>
+							-->
+							<!--/.media -->
+							<!--
 							<p>Loyal and dedicated member of the team</p>
 						</div>
-					</div><!--/.col-lg-4 -->
-					
+					</div>
 					
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -195,7 +210,7 @@ some of them are as follows: -</p>
 								</div>				
 							<p>Loyal and dedicated member of the team</p>
 							</div><!--/.media -->
-						</div>
+					<!--	</div> 
 					</div><!--/.col-lg-4 -->					
 				</div> <!--/.row -->
 				

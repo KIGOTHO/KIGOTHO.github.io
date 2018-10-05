@@ -25,11 +25,11 @@
         <div class="center wow fadeInDown">
             <h2>About <span>Me</span></h2>
             <p class="lead">I am Michael and i manage "Creative-devs" a web tutorials and self starter project.
-                            I am also part of CloudCore Deveopers Team at the IHUB.CloudCore works as a gun for Hire for clients with web/mobile apps,
-                            Design and systems I'm a Graduate from Nairobits Digital Design School currently freelancing. 
-                            I have enjoyed being in the field for the last Three years. I dont prefer rushing into a project because 
-                            i believe it should make both the client and i proud of our partnership . I take responsibility of projects from start 
-                            to finish. Hire me if you would be intrested in success despite any challenges we might face.
+                            I am also part of CloudCore Deveopers Team at the IHUB.CloudCore works on part time and short contracts for clients with web/mobile apps,
+                            Design and systems. I'm a Graduate from Nairobits Digital Design School currently Training web development in the instituition. 
+                            I have enjoyed being in the field for the last Three years. I dont prefer rushing into projects because 
+                            i believe it should make both the client and i proud. I take responsibility of projects from start 
+                            to finish.Making software is part of who I am, not just what I do—it's in my blood.Hire me if you would be intrested in success despite any challenges we might face.
             </p>
         </div>
         <div class="center wow fadeInDown">
@@ -38,31 +38,73 @@
                 <thead>
                   <tr>
                     <th>Category</th>
-                    <th>Skill Level</th>
-                    <th>Personal Experience</th>
+                    <th>Tool</th>
+                    <th class="sp_th">Personal status</th>
+                    <th class="sp_th">Skill Level  /100%</th>
                   </tr>
                 </thead>
                 <tbody>
                     <!-- row1 -->
                     <tr>
-                        <th rowspan="3">row1</th>
-                        <td rowspan="2">row1span1</td>
-                        <td>row1span1col1</td>
+                        <td rowspan="4">Programming Languages</td>
                     </tr>
                     <tr>
-                        <td>row1span1col2</td>
+                        <td>Ruby</td>
+                        <td>Confident</td>
+                        <td>90%</td>
                     </tr>
                     <tr>
-                        <td>row1span2</td>
-                        <td>row1span2col1</td>
+                        <td>PHP</td>
+                        <td>Comfortable</td>
+                        <td>85%</td>
+                    </tr>
+                    <tr>
+                        <td>Javascript</td>
+                        <td>Comfortable</td>
+                        <td>80%</td>
                     </tr>
                     <!---row2--->
                     <tr>
-                        <th>row2</th>
-                        <td>row2span1</td>
-                        <td>row2span1</td>
+                        <td rowspan="4">Frameworks</td>
                     </tr>
-                </tbody>
+                    <tr>
+                      <td>Ruby On Rails</td>
+                      <td>Confident</td>
+                      <td>95%</td>
+                    </tr>
+                    <tr>
+                      <td>YII 2</td>
+                      <td>Comfortable</td>
+                      <td>70%</td>
+                    </tr>
+                    <tr>
+                      <td>React JS</td>
+                      <td>Basic</td>
+                       <td>45%</td>
+                    </tr>
+                    <!---row3--->
+                    <tr>
+                        <td rowspan="3">CMS Platforms</td>
+                    </tr>
+                    <tr>                      
+                        <td>WordPress</td>
+                        <td>Basic</td>
+                        <td>70%</td>
+                    </tr>
+                    <tr>                      
+                        <td>Drupal</td>
+                        <td>Confident</td>
+                        <td>85%</td>
+                    </tr>
+                    <!---row4--->
+                    <tr>
+                        <td>Design</td>
+                        <td>Photoshop</td>
+                        <td>Confident</td>
+                        <td>90%</td>
+                    </tr>
+                    
+                    </tbody>
               </table>
         </div>
     </div>
